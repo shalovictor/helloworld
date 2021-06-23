@@ -13,3 +13,13 @@ public static void main(String args[])
   }
 ```
 
+## How to input a string
+
+The below code will get a String from the standard input
+
+```java
+    String str;
+	 	System.out.println(“Enter a String”);
+		str= in.readLine();
+```
+
