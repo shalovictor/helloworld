@@ -18,8 +18,8 @@ public static void main(String args[])
 The below code will get a String from the standard input
 
 ```java
-    String str;
-	 	System.out.println(“Enter a String”);
-		str= in.readLine();
+	String str;
+	System.out.println(“Enter a String”);
+	str= in.readLine();
 ```
 
